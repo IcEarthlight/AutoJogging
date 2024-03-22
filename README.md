@@ -2,7 +2,7 @@
 
 **WARNING: This project is only for learning and communication purposes. It is strictly prohibited to use it for commercial or illegal purposes. Any legal liability incurred for other purposes is not related to the author!**
 
-**警告：此项目仅供学习交流使用，严禁用于商业用途级非法用途，如作他用所承受的法律责任一概与作者无关！**
+**警告：此项目仅供学习交流使用，严禁用于商业用途及非法用途，如作他用所承受的法律责任一概与作者无关！**
 
 通过抓取某大学健康跑软件的包，使用 Python 内置函数和模组，实现模拟客户端向服务端发送、请求数据，实现自动完成健康跑。
 
